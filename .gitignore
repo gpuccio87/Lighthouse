@@ -1,0 +1,10 @@
+# build output (rebuild with build.bat)
+*.exe
+Lighthouse.ico
+
+# local configuration and runtime data
+Lighthouse.ini
+logs/
+programs/
+backup-avvio/
+backup-esecuzione-automatica/
